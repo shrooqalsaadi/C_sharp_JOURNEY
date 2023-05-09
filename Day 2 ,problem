@@ -1,0 +1,90 @@
+namespace HElloWOrld
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //here i will write my comment +
+            /*
+             consoling our data 
+             */
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("My name is shrooq," + "Today is my first day in code acadmy ");
+
+            string name;
+            name = "shrooq";
+            Console.WriteLine(name);
+            //two diffrint type of 1-value (have spicific saize
+            int age;
+            age = 25;
+            Console.WriteLine(age);
+
+            //Declaration
+            int day_of_birth = 1997;
+            int this_year = 2023;
+            Console.WriteLine(day_of_birth.GetHashCode());
+
+//Cts Under the HOOD
+            object obj = new object();
+            object obj1 = new object();
+
+
+            Console.WriteLine(obj.GetHashCode());
+            Console.WriteLine(obj1.GetHashCode());
+            Console.WriteLine(day_of_birth.GetHashCode());
+
+            //srting concatenation
+
+            string F1name = "shrooq";
+            string Sname = "said";
+            Console.WriteLine($" Hello my name {F1name} {Sname} and Iam {age}");
+
+
+            //var * Dynamic
+            //when we use var(delication can not change also dynamic
+            // we use both of them to (try to declure variable without set data type
+            var x = 3;
+            // x = "ss";
+            Console.WriteLine(x);
+
+            dynamic x1 = 3;
+            x1 = "ss";
+            Console.WriteLine(x1);
+
+
+            //compasion Operators
+            int o = 8;
+            int y = 12;
+
+            bool equal = o == y; // false
+            bool notequal = o != y; //True
+
+            Console.WriteLine(equal);
+            Console.WriteLine(notequal);
+
+            //logical
+            bool w = true;
+            bool p = false;
+            Console.WriteLine(true && true);
+
+            //var keyworld
+            var salary = 200d;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
+    }
+}
+
