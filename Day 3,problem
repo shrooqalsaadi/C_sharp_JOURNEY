@@ -1,0 +1,132 @@
+namespace day_3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //string Array
+            int[] arr1 = new int[3] { 1, 2, 3 };
+
+
+            //Arry multi line
+            int[] arr = new int[3];
+            arr[0] = 1;
+            arr[1] = 2;
+            arr[2] = 3;
+
+            //jaggedAraay
+            int[][] jaggedAraay = new int[3][];
+            jaggedAraay[0] = new int[] { 1, 2, 3 };
+            jaggedAraay[1] = new int[] { 4, 5, 6 };
+            jaggedAraay[2] = new int[] { 7, 8, 9 };
+
+
+            //Multi Araay, Single line
+            int[,] multi = new int[3, 3];
+            multi[0, 0] = 1;
+            multi[0, 1] = 2;
+            multi[0, 2] = 3;
+            //
+
+            ////Array sicing
+            int[] number = { 1, 2, 3, 4, 5 };
+            int[] slice = number[1..3];
+            //console.writeline(slice.Length);
+            Console.WriteLine(slice[1]);
+
+            //odd or even
+            int s = 1;
+            string res = (s % 2 == 0) ? "even" : "odd";
+            Console.WriteLine(res);
+
+
+            //Null val
+
+            //int z = null;
+            string z = "shrooq";
+            Console.WriteLine(z);
+
+
+            string t = (z == null) ? "shrooq" : null;
+            Console.WriteLine(t);
+
+            //ToUpper
+            string s3 = null;
+            Console.WriteLine(s3?.ToUpper());
+
+            //statment
+            int x3 = 3;
+            {
+                Console.WriteLine(x3);
+
+                string x33 = "wow";
+                Console.WriteLine(x33);
+
+            }
+
+            //Increament and decrement
+            int x5 = 1;
+            Console.WriteLine(x5++);
+            Console.WriteLine(++x5);
+
+
+            //condition if , if else
+            int weather_deg = 30;
+            if (weather_deg >= 20)
+            {
+                Console.WriteLine("Warm Weather");
+            }
+            else if (weather_deg >= 30)
+            {
+                Console.WriteLine("hot");
+            }
+            else
+            {
+
+                Console.WriteLine("very hot");
+            }
+
+
+            //swithch
+            int finger_print = 2;
+            switch (finger_print)
+            {
+                case 1:
+                    Console.WriteLine("On");
+                    break;
+                case 0:
+                    Console.WriteLine("off");
+                    break;
+
+                default: Console.WriteLine("null"); break;
+
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
+    }
+}
