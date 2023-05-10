@@ -1,0 +1,63 @@
+namespace _10_5_2022
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int x = 40;
+            int n=int.Parse(x.ToString());   
+            Console.WriteLine(n);
+
+            String Name = null;
+            int name_int =Convert.ToInt32(Name);
+
+            int number ;
+
+            int cnv =( int.TryParse(Name, out number))?number:0;
+            Console.WriteLine( cnv);
+
+
+
+
+
+            Console.WriteLine("Enter a Number of Student");
+            int n1 = Convert.ToInt32(Console.ReadLine());
+            int[] marks = new int[n1];
+
+            for (int i = 0; i < marks.Length; i++)
+            {
+
+                Console.WriteLine($"Enter Mark of Student {i+1}:");
+                
+                marks[i] = int.Parse(Console.ReadLine());
+                //if (marks[i] )
+                if (marks[i] >= 90 && marks[i] <= 100)
+                    Console.WriteLine("A");
+                else if (marks[i] >= 80)
+                    Console.WriteLine("B");
+                else if (marks[i] >= 70)
+                    Console.WriteLine("C");
+                else if (marks[i] >= 60)
+                    Console.WriteLine("D");
+                else
+                    Console.WriteLine("Fail");
+
+
+
+            }
+
+
+            const double pi = 3.14159;
+            Console.WriteLine("Enter the radius:(r)");
+             double r = Convert.ToDouble(Console.ReadLine());
+             double circumference = 2 * pi *r;
+             double area =  pi * r*r;
+            Console.WriteLine("circumference = "+circumference);
+            Console.WriteLine("area="+ area);
+
+
+
+
+        }
+    }
+}
