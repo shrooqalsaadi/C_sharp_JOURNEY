@@ -1,0 +1,15 @@
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\bin\Debug\net6.0\MltiDelegent.exe
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\bin\Debug\net6.0\MltiDelegent.deps.json
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\bin\Debug\net6.0\MltiDelegent.runtimeconfig.json
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\bin\Debug\net6.0\MltiDelegent.dll
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\bin\Debug\net6.0\MltiDelegent.pdb
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\obj\Debug\net6.0\MltiDelegent.csproj.AssemblyReference.cache
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\obj\Debug\net6.0\MltiDelegent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\obj\Debug\net6.0\MltiDelegent.AssemblyInfoInputs.cache
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\obj\Debug\net6.0\MltiDelegent.AssemblyInfo.cs
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\obj\Debug\net6.0\MltiDelegent.csproj.CoreCompileInputs.cache
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\obj\Debug\net6.0\MltiDelegent.dll
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\obj\Debug\net6.0\refint\MltiDelegent.dll
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\obj\Debug\net6.0\MltiDelegent.pdb
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\obj\Debug\net6.0\MltiDelegent.genruntimeconfig.cache
+C:\Users\iM\source\repos\MltiDelegent\MltiDelegent\obj\Debug\net6.0\ref\MltiDelegent.dll
