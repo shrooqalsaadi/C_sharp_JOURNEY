@@ -1,0 +1,15 @@
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\bin\Debug\net6.0\ReversFunction.exe
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\bin\Debug\net6.0\ReversFunction.deps.json
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\bin\Debug\net6.0\ReversFunction.runtimeconfig.json
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\bin\Debug\net6.0\ReversFunction.dll
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\bin\Debug\net6.0\ReversFunction.pdb
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\obj\Debug\net6.0\ReversFunction.csproj.AssemblyReference.cache
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\obj\Debug\net6.0\ReversFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\obj\Debug\net6.0\ReversFunction.AssemblyInfoInputs.cache
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\obj\Debug\net6.0\ReversFunction.AssemblyInfo.cs
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\obj\Debug\net6.0\ReversFunction.csproj.CoreCompileInputs.cache
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\obj\Debug\net6.0\ReversFunction.dll
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\obj\Debug\net6.0\refint\ReversFunction.dll
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\obj\Debug\net6.0\ReversFunction.pdb
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\obj\Debug\net6.0\ReversFunction.genruntimeconfig.cache
+C:\Users\iM\source\repos\ReversFunction\ReversFunction\obj\Debug\net6.0\ref\ReversFunction.dll
